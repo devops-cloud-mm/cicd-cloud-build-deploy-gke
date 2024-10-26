@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/jenkins-415921/locations/us-central1-c/clusters/cluster-1
+  cluster: projects/carbide-digit-439821-n3/locations/us-central1-c/clusters/cluste-1
 

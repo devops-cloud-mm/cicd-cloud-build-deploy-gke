@@ -14,9 +14,11 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: us-central1-docker.pkg.dev/jenkins-415921/gke-repo/quickstart-image
+          image: us-central1-docker.pkg.dev/carbide-digit-439821-n3/gke-repo/quickstart-image
           ports:
             - containerPort: 8080
+
+---
 
 apiVersion: v1
 kind: Service
