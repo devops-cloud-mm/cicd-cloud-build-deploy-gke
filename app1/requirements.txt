@@ -1,0 +1,4 @@
+flask
+tabulate
+Jinja2
+google-cloud-logging
